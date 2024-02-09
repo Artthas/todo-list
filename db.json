@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "First task",
+      "description": "Some description",
+      "status": "Not Completed"
+    },
+    {
+      "id": "7f28",
+      "title": "Second task",
+      "description": "Some description",
+      "status": "Not Completed"
+    },
+    {
+      "id": "b109",
+      "title": "Third task",
+      "description": "Some description",
+      "status": "Completed"
+    },
+    {
+      "id": "e239",
+      "title": "Fourth task",
+      "description": "Some description",
+      "status": "Not Completed"
+    }
+  ]
+}
